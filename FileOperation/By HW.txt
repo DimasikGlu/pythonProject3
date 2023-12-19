@@ -1,0 +1,9 @@
+Here, youll learn about a few Python tools and techniques that are handy
+when it comes to reversing lists or manipulating
+them in reverse order. This knowledge will complement and improve your
+list-related skills and make you more proficient
+with them. In this tutorial, youll learn how to: Reverse existing
+lists in place using .reverse() and other techniques.
+Create reversed copies of existing lists using reversed() and slicing.
+Use iteration, comprehensions, and recursion to create
+reversed lists. Iterate over your lists in reverse order.
